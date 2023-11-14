@@ -6,6 +6,7 @@
       		"tiles": [
 		        {
 		          	"title": "TEST PROGRAM",
+				"subtitle": "test",
 		          	"image_ratio": "16by9",
 		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/f/7/b/bf08c6d9-phpicob7f_png.jpg",
 		          	"action_data": "{\"contentId\": \"#page/program/france-2_la-derniere-vague\"}",
