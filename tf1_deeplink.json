@@ -1,0 +1,83 @@
+{
+    "expires": 1700002740,
+    "expires_only": false,
+    "sections": [
+        {
+            "title": "Notre sélection du jour",
+            "title_display_mode": "HighlightedOnly",
+            "subtitle_display_mode": "HighlightedOnly",
+            "tiles": [
+                {
+                    "title": "Star Academy",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-teasing-starac-2023-3a07da-37f81f-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"6ac85a7a-2cf4-4fe6-5fc3-ae5696b6a856\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Fast and Furious 8",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-191ddc-b74f8e-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"63e702a2-93e3-4188-61fb-a2dd734ef3f7\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Master Crimes",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-a5b9a7-da00fa-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"9240d287-23ce-4aac-6f13-b2457b765fe3\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Un homme en colère",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-6a6c11-d54909-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"92744086-cb42-4ada-4cac-4371df047981\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Superpapa",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square_super-papa_2023-4f5281-b95e9e-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"4b77a3ea-61fc-4844-44c1-5114758b7d6a\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Supercondriaque",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-supercondriaque-f47228-c3c7dc-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"538e0a03-74da-4fd0-5895-044c45adfecf\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "4 mariages pour 1 lune de miel",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-2fac54-798c0d-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"4d6311db-42f4-479d-aec0-31d4eacca6ed\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Taxi",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-taxi-a1e81c-ae8662-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"9d03c891-ab61-4302-5b8c-721548cc34cc\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Les Films de Noël",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square_noel-23-pour-les-mois-doctobre-et-novembre-fb7d8d-53b5ed-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"05c53356-2c2c-4ce5-64d3-26fed21856b7\"}",
+                    "is_playable": false
+                },
+                {
+                    "title": "Paw Patrol, la Pat'Patrouille",
+                    "image_url": "https://photos.tf1.fr/640/640/vignette-square-69c319-97218d-0@1x.jpg",
+                    "image_ratio": "1by1",
+                    "action_data": "{\"target\":\"SHOWPAGE\",\"content_id\":\"55493d49-f082-4638-9b3f-ab891fa7a4bb\"}",
+                    "is_playable": false
+                }
+            ]
+        }
+    ]
+}
