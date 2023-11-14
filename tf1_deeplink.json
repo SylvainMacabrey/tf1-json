@@ -6,7 +6,7 @@
       		"tiles": [
 		        {
 		          	"title": "TEST PROGRAM",
-				"subtitle": "test",
+				"subtitle": "",
 		          	"image_ratio": "16by9",
 		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/f/7/b/bf08c6d9-phpicob7f_png.jpg",
 		          	"action_data": "{\"contentId\": \"#page/program/france-2_la-derniere-vague\"}",
@@ -14,6 +14,7 @@
 		        },
 		        {
 		          	"title": "TEST UNITAIRE",
+				"subtitle": "",
 		          	"image_ratio": "16by9",
 		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/9/4/4/128963d2-2c8311bc9cdb419b892231615c629eec2fb77c74ea7256ee420e76bf04f79449.jpg",
 		          	"action_data": "{\"contentId\": \"#page/unit/2587231\"}",
@@ -21,6 +22,7 @@
 		        },
 		        {
 		          	"title": "TEST COLLECTION",
+				"subtitle": "",
 		          	"image_ratio": "16by9",
 		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/9/4/4/128963d2-2c8311bc9cdb419b892231615c629eec2fb77c74ea7256ee420e76bf04f79449.jpg",
 		          	"action_data": "{\"contentId\": \"#page/collection/1801255\"}",
@@ -28,6 +30,7 @@
 		        },
 		        {
 		          	"title": "TEST EVENEMENT",
+				"subtitle": "",
 		          	"image_ratio": "16by9",
 		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/9/4/4/128963d2-2c8311bc9cdb419b892231615c629eec2fb77c74ea7256ee420e76bf04f79449.jpg",
 		          	"action_data": "{\"contentId\": \"#page/event/sport_les-jeux-olympiques\"}",
@@ -35,6 +38,7 @@
 		        },
 		        {
 		          	"title": "TEST CHAINE",
+				"subtitle": "",
 		          	"image_ratio": "16by9",
 		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/9/4/4/128963d2-2c8311bc9cdb419b892231615c629eec2fb77c74ea7256ee420e76bf04f79449.jpg",
 		          	"action_data": "{\"contentId\": \"#page/channel/france-2\"}",
@@ -42,6 +46,7 @@
 		        },
 		        {
 		          	"title": "TEST CATEGORIE",
+				"subtitle": "",
 		          	"image_ratio": "16by9",
 		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/9/4/4/128963d2-2c8311bc9cdb419b892231615c629eec2fb77c74ea7256ee420e76bf04f79449.jpg",
 		          	"action_data": "{\"contentId\": \"#page/categorie/series-et-fictions\"}",
