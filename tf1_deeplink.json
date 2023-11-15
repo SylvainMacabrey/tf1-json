@@ -8,7 +8,7 @@
 		          	"title": "TEST PROGRAM",
 				"subtitle": "",
 		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-teasing-starac-2023-3a07da-37f81f-0@1x.jpg",
+		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/f/7/b/bf08c6d9-phpicob7f_png.jpg",
 		          	"action_data": "{\"contentId\": \"#page/program/france-2_la-derniere-vague\"}",
 		          	"is_playable": true
 		        },
@@ -16,7 +16,7 @@
 		          	"title": "TEST UNITAIRE",
 				"subtitle": "",
 		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-191ddc-b74f8e-0@1x.jpg",
+		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/9/4/4/128963d2-2c8311bc9cdb419b892231615c629eec2fb77c74ea7256ee420e76bf04f79449.jpg",
 		          	"action_data": "{\"contentId\": \"#page/unit/2587231\"}",
 		          	"is_playable": true
 		        },
@@ -24,7 +24,7 @@
 		          	"title": "TEST COLLECTION",
 				"subtitle": "",
 		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-a5b9a7-da00fa-0@1x.jpg",
+		          	"image_url": "https://www.france.tv/image/vignette_16x9/2500/1406/9/4/4/128963d2-2c8311bc9cdb419b892231615c629eec2fb77c74ea7256ee420e76bf04f79449.jpg",
 		          	"action_data": "{\"contentId\": \"#page/collection/1801255\"}",
 		          	"is_playable": true
 		        },
