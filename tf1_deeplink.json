@@ -1,58 +1,60 @@
 {
-	"expires": 1735650212,
-  	"sections": [
-    		{
-      		"title": "Popular VOD",
-      		"tiles": [
-		        {
-		          	"title": "TEST PROGRAM",
-				"subtitle": "",
-		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-teasing-starac-2023-3a07da-37f81f-0@1x.jpg",
-		          	"action_data": "{\"contentId\": \"#page/program/france-2_la-derniere-vague\"}",
-		          	"is_playable": true
-		        },
-		        {
-		          	"title": "TEST UNITAIRE",
-				"subtitle": "",
-		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-191ddc-b74f8e-0@1x.jpg",
-		          	"action_data": "{\"contentId\": \"#page/unit/2587231\"}",
-		          	"is_playable": true
-		        },
-		        {
-		          	"title": "TEST COLLECTION",
-				"subtitle": "",
-		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-a5b9a7-da00fa-0@1x.jpg",
-		          	"action_data": "{\"contentId\": \"#page/collection/1801255\"}",
-		          	"is_playable": true
-		        },
-		        {
-		          	"title": "TEST EVENEMENT",
-				"subtitle": "",
-		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-6a6c11-d54909-0@1x.jpg",
-		          	"action_data": "{\"contentId\": \"#page/event/sport_les-jeux-olympiques\"}",
-		          	"is_playable": true
-		        },
-		        {
-		          	"title": "TEST CHAINE",
-				"subtitle": "",
-		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square_super-papa_2023-4f5281-b95e9e-0@1x.jpg",
-		          	"action_data": "{\"contentId\": \"#page/channel/france-2\"}",
-		          	"is_playable": true
-		        },
-		        {
-		          	"title": "TEST CATEGORIE",
-				"subtitle": "",
-		          	"image_ratio": "16by9",
-		          	"image_url": "https://photos.tf1.fr/640/640/vignette-square-supercondriaque-f47228-c3c7dc-0@1x.jpg",
-		          	"action_data": "{\"contentId\": \"#page/categorie/series-et-fictions\"}",
-		          	"is_playable": true
-		        }
-      		]
-    		}
-  	]
+  "expires ": 1735650212,
+  "expires_only":true,
+  "sections": [
+    {
+      "title": "Popular VOD",
+      "tiles": [
+        {
+          "title": "TEST PROGRAM",
+          "subtitle": "",
+          "image_ratio": "16by9",
+          "image_url": "https://medias.francetv-preprod.fr/Sn5MXav8Plnw0jkS4IwSR7Zrkg4/2500x1406/filters:format(jpeg):quality(85)/s/g/y/phpsfvygs.jpg",
+          "action_data": "{\"contentId\": \"#page/program/france-4_hero-corp\"}",
+          "is_playable": true
+        },
+        {
+          "title": "TEST UNITAIRE",
+          "subtitle": "",
+          "image_ratio": "16by9",
+          "image_url": "https://medias.francetv-preprod.fr/Xs5OmEQ-qckq2iW3fVNzX5Rh5M0/2500x1406/filters:format(jpeg):quality(85)/6/a/w/phpdaywa6.png",
+          "action_data": "{\"contentId\": \"#page/unit/3225643\"}",
+          "is_playable": true
+        },
+        {
+          "title": "TEST COLLECTION",
+          "subtitle": "",
+          "image_ratio": "16by9",
+          "image_url": "https://medias.francetv-preprod.fr/Cx3qC-wNlbRovJEiQPDfcJQk1VI/2500x1406/filters:format(jpeg):quality(85)/t/g/z/phpnlwzgt.jpg",
+          "action_data": "{\"contentId\": \"#page/collection/1374983\"}",
+          "is_playable": true
+        },
+        {
+          "title": "TEST EVENEMENT",
+          "subtitle": "",
+          "image_ratio": "16by9",
+          "image_url": "https://medias.francetv-preprod.fr/90hSfWfXvVxnu23rohjMCjmqmwk/2500x1406/filters:format(jpeg):quality(85)/3/f/1/phpqf31f3.jpg",
+          "action_data": "{\"contentId\": \"#page/event/sport_rugby_coupe-du-monde-de-rugby\"}",
+          "is_playable": true
+        },
+        {
+          "title": "TEST CHAINE",
+          "subtitle": "",
+          "image_ratio": "16by9",
+          "image_url": "https://medias.francetv-preprod.fr/5b9BzxZik3VsRVFnp3jQ_29UB78/2500x1406/filters:format(jpeg):quality(85)/2/l/c/phpqqycl2.png",
+          "action_data": "{\"contentId\": \"#page/channel/france-2\"}",
+          "is_playable": true
+        },
+        {
+          "title": "TEST CATEGORIE",
+          "subtitle": "",
+          "image_ratio": "16by9",
+          "image_url": "https://medias.francetv-preprod.fr/zJ6ggi02HUtNSK2xJ_SYhWxrjhA/2500x1406/filters:format(jpeg):quality(85)/j/i/6/phpvlm6ij.png",
+          "action_data": "{\"contentId\": \"#page/categorie/series-et-fictions\"}",
+          "is_playable": true
+        }
+      ]
+    }
+  ]
+}
 }
